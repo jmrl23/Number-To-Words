@@ -1,0 +1,16 @@
+{
+  "name": "number-to-words",
+  "version": "1.0.0",
+  "main": "build/main.js",
+  "author": "Jomariel Gaitera <gaiterajomariel@gmail.com>",
+  "license": "UNLICENSED",
+  "scripts": {
+    "build": "tsc",
+    "test": "ts-node src/test.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^18.16.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4"
+  }
+}
